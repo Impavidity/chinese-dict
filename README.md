@@ -50,3 +50,30 @@ multi-task learning | 多任务学习 | 多任務學習 | duōrènwù xuéxí
 reinforcement learning | 强化学习 | 強化學習 | qiánghuà xuéxí 
 
 [1] More precisely, bidirectional long-short term memory recurrent neural network
+
+## Databases, Big Data, etc.
+
+English | Chinese (simplified) | Chinese (Traditionl) | Pinyin
+--------|:--|:--|:--
+big data | 大数据 | 大數據 | dà shùjù
+data science | 数据科学 | 數據科學 | shùjù kēxué
+scalability | 可扩展性 | 可擴展性 | kě kuòzhǎn xìng
+scale up | 向上扩容 | 向上擴容 | xiàngshàng kuòróng
+scale out | 平面扩容 | 平面擴容 | píngmiàn kuòróng
+platform | 平台 | 平台 | píngtái
+relational database | 关系数据库 | 關係數據庫 | guānxì shùjùkù
+NoSQL database | 非关系数据库 [1] | 非關係數據庫 [1] | fēi guānxì shùjùkù
+key-value store | 键值存储系统 (or 库)? | 
+document store | 文档存储系统 (or 库)?
+column store | 基于列存储系统 (or 库)?
+graph store | 图形数据存储系统 (or 库)?
+API |
+cluster |
+node |
+rack |
+index |
+query plan |
+logical plan |
+physical plan |
+
+[1] Literally, non-relational
